@@ -12,6 +12,8 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I made my own URL shortener for free](https://medium.com/@tushar.sadhwani000/how-i-made-my-own-url-shortener-for-free-751d29afa463?source=rss-927ae3d72027------2)
+- [Introduction to Flutter: Login Page](https://medium.com/@tushar.sadhwani000/introduction-to-flutter-login-page-61dc7e1a4a9c?source=rss-927ae3d72027------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
