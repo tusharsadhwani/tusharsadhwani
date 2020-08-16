@@ -21,7 +21,9 @@
 <br />
 
 <p align="center">
-<a href="mailto:tushar.sadhwani000@gmail.com" target="blank"><img src="icons/gmail.svg" height="32" width="54" /></a>
-<a href="https://t.me/tusharsadhwani" target="blank"><img src="icons/telegram.svg" height="32" width="54" /></a>
-<a href="https://instagram.com/sadhlife" target="blank"><img src="icons/instagram.svg" height="32" width="54" /></a>
+<a href="mailto:tushar.sadhwani000@gmail.com" target="blank"><img src="icons/gmail.svg" height="32" width="44" /></a>
+<a href="https://t.me/tusharsadhwani" target="blank"><img src="icons/telegram.svg" height="32" width="44" /></a>
+<a href="https://instagram.com/sadhlife" target="blank"><img src="icons/instagram.svg" height="32" width="44" /></a>
+<a href="https://twitter.com/tusharsadhwani_" target="blank"><img src="icons/twitter.svg" height="32" width="44" /></a>
+<a href="https://medium.com/@tushar.sadhwani000" target="blank"><img src="icons/medium.svg" height="32" width="44" /></a>
 </p>
