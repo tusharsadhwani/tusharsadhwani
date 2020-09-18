@@ -3,6 +3,7 @@
 
 - ⚡ I’m currently working on **Learning how to make a solid web/mobile backend** (drop tips if you got experience)
 - 💬 Ask me about **Python and Flutter** (sometimes web, and go) _(maybe rust soon)_
+- 👨‍💻 I teach people how to code on Twitch: [twitch.tv/drunktimelord](https://twitch.tv/drunktimelord)
 - 📲 Check out my website: [tusharsadhwani.dev](https://tusharsadhwani.dev)
 
 <br />
