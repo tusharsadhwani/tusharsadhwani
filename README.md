@@ -15,6 +15,7 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to setup PostgreSQL on Manjaro Linux / Arch](https://dev.to/tusharsadhwani/how-to-setup-postgresql-on-manjaro-linux-arch-412l)
 - [How I made my own URL shortener for free](https://dev.to/tusharsadhwani/how-i-made-my-own-url-shortener-for-free-293p)
 <!-- BLOG-POST-LIST:END -->
 
