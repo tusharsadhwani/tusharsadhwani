@@ -9,7 +9,7 @@
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=tusharsadhwani&theme=cobalt&show_icons=true">
+  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=tusharsadhwani&theme=react&show_icons=true">
 </p>
 
 ## Blog posts
