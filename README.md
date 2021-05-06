@@ -3,7 +3,8 @@
 
 - ⚡ I’m currently working on **Learning how to make a solid web/mobile backend** (drop tips if you got experience)
 - 💬 Ask me about **Python and Flutter** (sometimes web, and go) _(maybe rust soon)_
-- 👨‍💻 I teach people how to code on Twitch: [twitch.tv/drunktimelord](https://twitch.tv/drunktimelord)
+- ✍ I write detailed technical articles on my [blog site](https://dev.to/tusharsadhwani)
+- 👨‍💻 I teach people coding on Twitch: [twitch.tv/drunktimelord](https://twitch.tv/drunktimelord)
 - 📲 Check out my website: [tusharsadhwani.dev](https://tusharsadhwani.dev)
 
 <br />
@@ -25,10 +26,10 @@
 <br />
 
 <p align="center">
-  <a href="mailto:tushar.sadhwani000@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/tusharsadhwani/tusharsadhwani/master/icons/gmail.svg" height="32" width="44" /></a>
-  <a href="https://twitch.tv/drunktimelord" target="blank"><img src="https://raw.githubusercontent.com/tusharsadhwani/tusharsadhwani/master/icons/twitch.svg" height="32" width="44" /></a>
-  <a href="https://t.me/tusharsadhwani" target="blank"><img src="https://raw.githubusercontent.com/tusharsadhwani/tusharsadhwani/master/icons/telegram.svg" height="32" width="44" /></a>
-  <a href="https://instagram.com/sadhlife" target="blank"><img src="https://raw.githubusercontent.com/tusharsadhwani/tusharsadhwani/master/icons/instagram.svg" height="32" width="44" /></a>
-  <a href="https://twitter.com/tusharsadhwani_" target="blank"><img src="https://raw.githubusercontent.com/tusharsadhwani/tusharsadhwani/master/icons/twitter.svg" height="32" width="44" /></a>
-  <a href="https://dev.to/tusharsadhwani" target="blank"><img src="https://raw.githubusercontent.com/tusharsadhwani/tusharsadhwani/master/icons/dev.svg" height="32" width="44" /></a>
+  <a href="mailto:tushar.sadhwani000@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/tusharsadhwani/tusharsadhwani/master/icons/gmail.svg" height="32" width="44" /></a>
+  <a href="https://dev.to/tusharsadhwani" target="_blank"><img src="https://raw.githubusercontent.com/tusharsadhwani/tusharsadhwani/master/icons/dev.svg" height="32" width="44" /></a>
+  <a href="https://twitch.tv/drunktimelord" target="_blank"><img src="https://raw.githubusercontent.com/tusharsadhwani/tusharsadhwani/master/icons/twitch.svg" height="32" width="44" /></a>
+  <a href="https://t.me/tusharsadhwani" target="_blank"><img src="https://raw.githubusercontent.com/tusharsadhwani/tusharsadhwani/master/icons/telegram.svg" height="32" width="44" /></a>
+  <a href="https://instagram.com/sadhlife" target="_blank"><img src="https://raw.githubusercontent.com/tusharsadhwani/tusharsadhwani/master/icons/instagram.svg" height="32" width="44" /></a>
+  <a href="https://twitter.com/tusharsadhwani_" target="_blank"><img src="https://raw.githubusercontent.com/tusharsadhwani/tusharsadhwani/master/icons/twitter.svg" height="32" width="44" /></a>
 </p>
