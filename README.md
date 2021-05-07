@@ -1,11 +1,15 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 <h3 align="center">I'm Tushar, a code creator.</h3>
 
-- ⚡ I’m currently working on **Learning how to make a solid web/mobile backend** (drop tips if you got experience)
-- 💬 Ask me about **Python and Flutter** (sometimes web, and go) _(maybe rust soon)_
-- ✍ I write detailed technical articles on my [blog site](https://dev.to/tusharsadhwani)
-- 👨‍💻 I teach people coding on Twitch: [twitch.tv/drunktimelord](https://twitch.tv/drunktimelord)
-- 📲 Check out my website: [tusharsadhwani.dev](https://tusharsadhwani.dev)
+⚡ I’m currently working on **Learning how to make a solid web/mobile backend** (drop tips if you got experience)
+
+💬 Ask me about **Python and Flutter** (sometimes web, and go) _(maybe rust soon)_
+
+✍ I write detailed technical articles on my [blog site](https://dev.to/tusharsadhwani)
+
+👨‍💻 I teach people coding on Twitch: [twitch.tv/drunktimelord](https://twitch.tv/drunktimelord)
+
+📲 Check out my website: [tusharsadhwani.dev](https://tusharsadhwani.dev)
 
 <br />
 
