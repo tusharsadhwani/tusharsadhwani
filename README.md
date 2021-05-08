@@ -20,11 +20,11 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I fixed Google's scripting tool](https://dev.to/tusharsadhwani/i-fixed-google-s-scripting-tool-13op)
 - [The Comprehensive Guide to mypy](https://dev.to/tusharsadhwani/the-comprehensive-guide-to-mypy-561m)
 - [Does Python need types?](https://dev.to/tusharsadhwani/does-python-need-types-59if)
 - [Connecting Android Apps to localhost, Simplified](https://dev.to/tusharsadhwani/connecting-android-apps-to-localhost-simplified-57lm)
 - [How to setup PostgreSQL and PGAdmin on Manjaro Linux / Arch](https://dev.to/tusharsadhwani/how-to-setup-postgresql-on-manjaro-linux-arch-412l)
-- [How I made my own URL shortener for free](https://dev.to/tusharsadhwani/how-i-made-my-own-url-shortener-for-free-293p)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
