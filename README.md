@@ -3,7 +3,7 @@
 
 ⚡ I’m currently working on **Learning how to make a solid web/mobile backend** (drop tips if you got experience)
 
-💬 Ask me about **Python and Flutter** (sometimes web, and go) _(maybe rust soon)_
+💬 Ask me about **Python and Flutter** (and sometimes web, and go)
 
 ✍ I write detailed technical articles on my [blog site](https://dev.to/tusharsadhwani)
 
@@ -15,6 +15,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=tusharsadhwani&theme=react&show_icons=true">
+</p>
+
+<p align="center">
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=tusharsadhwani&branding=false&style=--header-bg-color:%2320232a;--bg-color:%2320232a;--border-radius:10px;--badge-bg-color:%232c303a;--badge-text-color:%23fff;--border:1px%20solid%20%23ccc;--border-radius:6px" width=495>
 </p>
 
 ## Blog posts
@@ -35,5 +39,6 @@
   <a href="https://twitch.tv/drunktimelord" target="_blank"><img src="https://raw.githubusercontent.com/tusharsadhwani/tusharsadhwani/master/icons/twitch.svg" height="32" width="44" /></a>
   <a href="https://t.me/tusharsadhwani" target="_blank"><img src="https://raw.githubusercontent.com/tusharsadhwani/tusharsadhwani/master/icons/telegram.svg" height="32" width="44" /></a>
   <a href="https://instagram.com/sadhlife" target="_blank"><img src="https://raw.githubusercontent.com/tusharsadhwani/tusharsadhwani/master/icons/instagram.svg" height="32" width="44" /></a>
-  <a href="https://twitter.com/tusharsadhwani_" target="_blank"><img src="https://raw.githubusercontent.com/tusharsadhwani/tusharsadhwani/master/icons/twitter.svg" height="32" width="44" /></a>
+  <a href="https://twitter.com/sadhlife" target="_blank"><img src="https://raw.githubusercontent.com/tusharsadhwani/tusharsadhwani/master/icons/twitter.svg" height="32" width="44" /></a>
+  <a href="https://profile.codersrank.io/user/tusharsadhwani" target="_blank"><img src="https://docs.codersrank.io/img/logo.svg" height="32" width="44" /></a>
 </p>
