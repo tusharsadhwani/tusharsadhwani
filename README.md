@@ -26,11 +26,11 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What the f-strings?](https://dev.to/tusharsadhwani/what-the-f-strings-391c)
 - [Ace your LeetCode preparations](https://dev.to/tusharsadhwani/ace-your-leetcode-preparations-40l)
 - [I fixed Google's scripting tool](https://dev.to/tusharsadhwani/i-fixed-google-s-scripting-tool-13op)
 - [The Comprehensive Guide to mypy](https://dev.to/tusharsadhwani/the-comprehensive-guide-to-mypy-561m)
 - [Does Python need types?](https://dev.to/tusharsadhwani/does-python-need-types-59if)
-- [Connecting Android Apps to localhost, Simplified](https://dev.to/tusharsadhwani/connecting-android-apps-to-localhost-simplified-57lm)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
