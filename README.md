@@ -5,11 +5,13 @@
 
 💬 Ask me about **Python and Flutter** (and sometimes web, and go)
 
-✍ I write detailed technical articles on my [blog site](https://dev.to/tusharsadhwani)
+✍ I write detailed technical articles on my [blog](https://sadh.life/)
 
 👨‍💻 I teach people coding on Twitch: [twitch.tv/drunktimelord](https://twitch.tv/drunktimelord)
 
-📲 Check out my website: [tusharsadhwani.dev](https://tusharsadhwani.dev)
+📲 Check out my website: [tusharsadhwani.dev](https://tusharsadhwani.dev), or
+
+💌 Reach me on [Twitter](https://twitter.com/sadhlife)
 
 <br />
 
