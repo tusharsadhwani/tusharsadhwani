@@ -28,11 +28,11 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The math behind Python's slices](https://dev.to/tusharsadhwani/the-math-behind-python-s-slices-1j1f)
-- [What the f-strings?](https://dev.to/tusharsadhwani/what-the-f-strings-391c)
-- [Ace your LeetCode preparations](https://dev.to/tusharsadhwani/ace-your-leetcode-preparations-40l)
-- [I fixed Google's scripting tool](https://dev.to/tusharsadhwani/i-fixed-google-s-scripting-tool-13op)
-- [The Comprehensive Guide to mypy](https://dev.to/tusharsadhwani/the-comprehensive-guide-to-mypy-561m)
+- [Understanding all of Python, through its builtins](https://sadh.life/post/builtins/)
+- [The math behind Python's slices](https://sadh.life/post/slices/)
+- [What the f-strings?](https://sadh.life/post/what-the-f-strings/)
+- [Ace your leetcode preparations](https://sadh.life/post/leetcode-prep/)
+- [The Comprehensive Guide to mypy](https://sadh.life/post/mypy-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
