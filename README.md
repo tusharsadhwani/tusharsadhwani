@@ -39,10 +39,10 @@
 
 <p align="center">
   <a href="mailto:tushar.sadhwani000@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/tusharsadhwani/tusharsadhwani/master/icons/gmail.svg" height="32" width="44" /></a>
-  <a href="https://dev.to/tusharsadhwani" target="_blank"><img src="https://raw.githubusercontent.com/tusharsadhwani/tusharsadhwani/master/icons/dev.svg" height="32" width="44" /></a>
+  <a href="https://twitter.com/sadhlife" target="_blank"><img src="https://raw.githubusercontent.com/tusharsadhwani/tusharsadhwani/master/icons/twitter.svg" height="32" width="44" /></a>
+  <!-- <a href="https://dev.to/tusharsadhwani" target="_blank"><img src="https://raw.githubusercontent.com/tusharsadhwani/tusharsadhwani/master/icons/dev.svg" height="32" width="44" /></a> -->
   <a href="https://twitch.tv/drunktimelord" target="_blank"><img src="https://raw.githubusercontent.com/tusharsadhwani/tusharsadhwani/master/icons/twitch.svg" height="32" width="44" /></a>
   <a href="https://t.me/tusharsadhwani" target="_blank"><img src="https://raw.githubusercontent.com/tusharsadhwani/tusharsadhwani/master/icons/telegram.svg" height="32" width="44" /></a>
   <a href="https://instagram.com/sadhlife" target="_blank"><img src="https://raw.githubusercontent.com/tusharsadhwani/tusharsadhwani/master/icons/instagram.svg" height="32" width="44" /></a>
-  <a href="https://twitter.com/sadhlife" target="_blank"><img src="https://raw.githubusercontent.com/tusharsadhwani/tusharsadhwani/master/icons/twitter.svg" height="32" width="44" /></a>
-  <a href="https://profile.codersrank.io/user/tusharsadhwani" target="_blank"><img src="https://docs.codersrank.io/img/logo.svg" height="32" width="44" /></a>
+  <!-- <a href="https://profile.codersrank.io/user/tusharsadhwani" target="_blank"><img src="https://docs.codersrank.io/img/logo.svg" height="32" width="44" /></a> -->
 </p>
