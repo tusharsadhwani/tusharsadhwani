@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 <h3 align="center">I'm Tushar, a code creator.</h3>
 
-⚡ I’m currently working on **Learning how to make a solid web/mobile backend** (drop tips if you got experience)
+⚡ I’m currently working on **Creating free Python courses** ✨
 
 💬 Ask me about **Python and Flutter** (and sometimes web, and go)
 
