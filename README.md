@@ -29,7 +29,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Understanding all of Python, through its builtins](https://sadh.life/post/builtins/)
-- [The math behind Python's slices](https://sadh.life/post/slices/)
+- [The math behind Python&#39;s slices](https://sadh.life/post/slices/)
 - [What the f-strings?](https://sadh.life/post/what-the-f-strings/)
 - [Ace your leetcode preparations](https://sadh.life/post/leetcode-prep/)
 - [The Comprehensive Guide to mypy](https://sadh.life/post/mypy-guide/)
