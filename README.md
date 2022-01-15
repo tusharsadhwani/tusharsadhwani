@@ -28,11 +28,11 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lazy recursion, with generators](https://sadh.life/post/recursive-generators/)
 - [Learn Python ASTs, by building your own linter](https://sadh.life/post/ast/)
 - [Why YOU should write a blog](https://sadh.life/post/write-a-blog/)
 - [Understanding all of Python, through its builtins](https://sadh.life/post/builtins/)
 - [The math behind Python&#39;s slices](https://sadh.life/post/slices/)
-- [What the f-strings?](https://sadh.life/post/what-the-f-strings/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
