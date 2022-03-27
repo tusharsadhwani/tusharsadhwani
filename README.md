@@ -28,11 +28,11 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing @property, @staticmethod and @classmethod from scratch](https://sadh.life/post/descriptors/)
 - [Lazy recursion, with generators](https://sadh.life/post/recursive-generators/)
 - [Learn Python ASTs, by building your own linter](https://sadh.life/post/ast/)
 - [Why YOU should write a blog](https://sadh.life/post/write-a-blog/)
 - [Understanding all of Python, through its builtins](https://sadh.life/post/builtins/)
-- [The math behind Python&#39;s slices](https://sadh.life/post/slices/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
