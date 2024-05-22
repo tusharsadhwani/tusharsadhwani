@@ -17,6 +17,7 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Replacing pyinstaller with 100 lines of code](https://tushar.lol/post/packaged/)
 - [How I added C-style for-loops to Python](https://tushar.lol/post/cursed-for/)
 - [Implementing @property, @staticmethod and @classmethod from scratch](https://tushar.lol/post/descriptors/)
 - [Lazy recursion, with generators](https://tushar.lol/post/recursive-generators/)
