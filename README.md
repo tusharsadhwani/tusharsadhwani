@@ -27,7 +27,7 @@
 - [The math behind Python&#39;s slices](https://tushar.lol/post/slices/)
 - [What the f-strings?](https://tushar.lol/post/what-the-f-strings/)
 - [Ace your leetcode preparations](https://tushar.lol/post/leetcode-prep/)
-- [The Comprehensive Guide to mypy](https://tushar.lol/post/mypy-guide/)
+- [The Comprehensive Guide to mypy](https://tushar.lol/post/mypy/)
 - [Does Python need types?](https://tushar.lol/post/does-python-need-types/)
 - [Connecting android apps to localhost, simplified](https://tushar.lol/post/android-localhost/)
 - [How to setup PostgreSQL on Manjaro linux / Arch](https://tushar.lol/post/setup-postgres/)
