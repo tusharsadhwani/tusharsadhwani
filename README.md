@@ -8,12 +8,6 @@
 
 💌 Reach me on [Twitter](https://twitter.com/tusharisanerd)
 
-<br />
-
-<p align="center">
-  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=tusharsadhwani&theme=react&show_icons=true">
-</p>
-
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
