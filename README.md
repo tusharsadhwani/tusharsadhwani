@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Tushar.</h1>
 
-⚡ I’m currently working on **improving Python DevTools** ✨
+⚡ I’m currently working on **improving Python / [Zig](https://github.com/zigindia) DevTools** ✨
 
 💬 Ask me about **Linters, code formatters and other Python tooling**
 
